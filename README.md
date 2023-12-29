@@ -1,4 +1,4 @@
-# CompPhotography-HW-2
+# ComPhoto-HW-2
 
 Each problem has own jupyter notebook as shown in their name (e.g., P1to3.ipynb -> code for Part 1 to 3)
 
